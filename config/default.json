@@ -1,0 +1,7 @@
+
+
+{
+    "mongoURI":
+      "mongodb+srv://booksDBAccess:books123@cluster0.lwvsnkt.mongodb.net/ebooksDB"
+      
+}
