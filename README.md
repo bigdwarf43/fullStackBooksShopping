@@ -1,4 +1,4 @@
-# fullStackBooksShopping
+# full-stack-books-shopping-website
 
 ![Screenshot 2023-05-15 194633](https://github.com/bigdwarf43/fullStackBooksShopping/assets/62785185/8fc33ff2-c947-43dd-952a-16fa0b6594a4)
 
